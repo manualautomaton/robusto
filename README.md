@@ -1,2 +1,2 @@
 # robusto
-a demonstration of robustly handling service unavailability 
+an [actionpack](https://github.com/withtwoemms/actionpack)ed demonstration of robustly handling service unavailability
